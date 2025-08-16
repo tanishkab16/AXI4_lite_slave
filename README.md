@@ -65,6 +65,8 @@ The project is designed to be simulated using `Icarus Verilog` and the `vvp` int
 
 The simulation will generate a `waves.vcd` file, which can be viewed with a waveform viewer like `GTKWave`.
 
+<img width="1919" height="935" alt="image" src="https://github.com/user-attachments/assets/458860d4-246a-4355-8da4-db4381f2d008" />
+
 ---
 
 ### **6. Future Improvements**
